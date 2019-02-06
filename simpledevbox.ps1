@@ -2,7 +2,7 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # Install Software
-choco install visualstudiocode -y
+choco install openoffice
 choco install git -y 
 choco install nodejs-lts  -y
 choco install docker-compose -y
