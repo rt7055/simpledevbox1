@@ -5,4 +5,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 choco install openoffice -y
 choco install git -y 
 choco install nodejs-lts  -y
+choco install openscad -y
+choco install googlechrome -y
+
 
