@@ -4,6 +4,5 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 # Install Software
 choco install googlechrome -y
 choco install firefox -y
-choco install blender -y
 
 
