@@ -8,4 +8,5 @@ choco install firefox -y
 #Install AD future on azure VM's
 	
 Add-WindowsFeature RSAT-AD-PowerShell
+Install-WindowsFeature RSAT-AD-PowerShell
 
